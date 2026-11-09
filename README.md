@@ -76,7 +76,7 @@ A modern restaurant website redefining the dining experience with smart ordering
 
 ### 🧑‍💻 Personal Portfolio Website
 This very portfolio! Built to showcase my skills, projects, and certifications.
-🔗 [satyaprakash-portfolio.netlify.app](https://satyaprakash-portfolio.netlify.app/)
+🔗 [satyaprakash-portfolio.netlify.app](https://satyaprakash-prajapati.netlify.app/)
 
 ### 💬 Message to Satya
 A simple, public-facing contact/message box.
